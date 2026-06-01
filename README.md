@@ -1,6 +1,6 @@
 <!-- 🌌 星穹铁道 Banner -->
 <p align="center">
-  <img src="https://img2-tc.tapimg.com/moment/etag/lqkmZZ549ADB3A9lPPi2WDPaOIDD_20260116171006.jpg/_tap_ugc.jpg" alt="Banner" />
+  <img src="https://img2-tc.tapimg.com/moment/etag/lqkmZZ549ADB3A9lPPi2WDPaOIDD_20260116171006.jpg/_tap_ugc.jpg" alt="Banner" width="700"/>
 </p>
 ## Hi there 👋 这里是 April酱
 
