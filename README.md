@@ -1,4 +1,7 @@
 <!-- 🌌 星穹铁道 Banner -->
+<p align="center">
+  <img src="https://img2-tc.tapimg.com/moment/etag/lqkmZZ549ADB3A9lPPi2WDPaOIDD_20260116171006.jpg/_tap_ugc.jpg" alt="Banner" />
+</p>
 ## Hi there 👋 这里是 April酱
 
 <p align="center">
@@ -38,8 +41,8 @@
 
 ---
 
-### 🧰 技术栈
-
+### 🛠 技术栈
+**⚙️ 后端 & 数据**
 <p>
   <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
   <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
@@ -50,7 +53,7 @@
   <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
-
+**🐳 DevOps**
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
@@ -60,7 +63,7 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
-
+🔧 嵌入式 & IoT
 <p>
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
@@ -71,68 +74,13 @@
   <img alt="LoRa" src="https://img.shields.io/badge/LoRa-0A84FF?style=for-the-badge&logoColor=white" />
   <img alt="Embedded Linux" src="https://img.shields.io/badge/Embedded%20Linux-222222?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
-
-<p>
-  <img alt="UART" src="https://img.shields.io/badge/UART-555555?style=for-the-badge" />
-  <img alt="I2C" src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" />
-  <img alt="SPI" src="https://img.shields.io/badge/SPI-555555?style=for-the-badge" />
-  <img alt="GPIO" src="https://img.shields.io/badge/GPIO-2E8B57?style=for-the-badge" />
-  <img alt="Serial Communication" src="https://img.shields.io/badge/Serial%20Communication-444444?style=for-the-badge" />
-</p>
-
+**🤖 AI / Agent**
 <p>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="AI Agent" src="https://img.shields.io/badge/AI%20Agent-FF6B6B?style=for-the-badge" />
   <img alt="Vibe Coding" src="https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=for-the-badge" />
 </p>
 
-
----
-
-### 🧰 技术栈
-
-<p>
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
-  <img alt="MyBatis" src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logoColor=white" />
-
-  <!-- 👇 只加这一行 -->
-  <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-<img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-</p>
-
-<p>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img alt="STM32" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
-  <img alt="Arduino" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img alt="Raspberry Pi" src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" />
-  <img alt="MQTT" src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logoColor=white" />
-  <img alt="LoRa" src="https://img.shields.io/badge/LoRa-0A84FF?style=for-the-badge" />
-  <img alt="UART" src="https://img.shields.io/badge/UART-555555?style=for-the-badge" />
-  <img alt="I2C" src="https://img.shields.io/badge/I2C-555555?style=for-the-badge" />
-  <img alt="SPI" src="https://img.shields.io/badge/SPI-555555?style=for-the-badge" />
-  <img alt="Embedded Linux" src="https://img.shields.io/badge/Embedded%20Linux-222222?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
-<p>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Vibe Coding" src="https://img.shields.io/badge/Vibe%20Coding-FF69B4?style=for-the-badge&logo=sparkles&logoColor=white" />
-</p>
----
 
 ### 🗣️ 语言熟练度
 | Language | Level |
